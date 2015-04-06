@@ -3,6 +3,7 @@ Cartridge-Short-Name: POSTGRESQL
 Version: 9.2
 Architecture: noarch
 Display-Name: PostgreSQL Database 9.2
+Cartridge-Vendor: postgres
 Description: "PostgreSQL is an advanced Object-Relational database management system"
 Vendor: "Postgres"
 Categories:
